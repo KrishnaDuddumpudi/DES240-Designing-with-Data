@@ -4,4 +4,5 @@ void setup(){
 }
 
 void draw(){
+background(random(255),random(255),random(255));
 }
